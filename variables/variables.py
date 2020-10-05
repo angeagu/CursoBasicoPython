@@ -20,3 +20,8 @@ altura = float(1.87)
 print("Nombre: " + nombre + ", edad: " + str(edad)) #str indica a Python convertir la variable edad como texto
 
 print("Peso: " + str(peso) +  "Altura: " + str(altura))
+
+numero = int(input("Introduzca un numero: "))
+print("Numero introducido: " + str(numero))
+nombre = str(input("Introduzca su nombre: "))
+print("Hola " + nombre)

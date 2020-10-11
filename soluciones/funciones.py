@@ -14,7 +14,7 @@
 #     sumaImpares = 0
 #     lista = [1,2,3,4,5,6,7,8,9,10]
 #     for indice, numero in enumerate(lista):
-#         if(indice+1 %2 ==0):
+#         if((indice+1)%2 ==0):
 #             sumaPares += numero
 #         else:
 #             sumaImpares += numero

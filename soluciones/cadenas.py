@@ -60,3 +60,18 @@
 # for letra in cadena:
 #     ascii.append(ord(letra))
 # print(ascii)
+
+# Escribe un programa que imprima las letras de una frase introducida por teclado de una forma
+# alternativa, es decir, una de la parte final y la siguiente de la inicial,
+# hasta recorrer todos los caracteres de la misma.
+
+# Realiza un programa que cuente las veces que aparece una frase en otra,
+# ambas introducidas por teclado, y que muestre las posiciones en las que se encuentra.
+
+#Escribe un programa que invierta los dígitos de un entero dado.
+
+
+# Verificar si una cadena de texto almacenada, es un DNI correcto o no.
+# Si lo es, se mostrará por consola su parte numérica;
+# si no lo es se mostrará el mensaje "DNI incorrecto".
+# Se tendrá en cuenta que el DNI tienen 8 dígitos y, a continuación, una letra (no importa que sea mayúscula o minúscula).

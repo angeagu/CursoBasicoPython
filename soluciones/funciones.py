@@ -6,6 +6,23 @@
 #
 # rectangulo(12,4)
 
+# Crear una funcion que almacene en un array 10 números enteros.
+# Imprime por pantalla los elementos que ocupan las posiciones pares y su suma
+# Lo mismo para las posiciones impares.
+# def sumaParesImpares():
+#     sumaPares = 0
+#     sumaImpares = 0
+#     lista = [1,2,3,4,5,6,7,8,9,10]
+#     for indice, numero in enumerate(lista):
+#         if(indice+1 %2 ==0):
+#             sumaPares += numero
+#         else:
+#             sumaImpares += numero
+#     print("Suma Pares: " + str(sumaPares))
+#     print("Suma Impares: " + str(sumaImpares))
+#
+# sumaParesImpares()
+
 # Escribir una funcion que Verifique si una cadena de texto almacenada, es un DNI correcto o no.
 # Si lo es, se devolvera true y si no lo es, se devolvera false.
 # Los DNI tienen 8 dígitos y, a continuación una letra (no importa que sea mayúscula o minúscula).
